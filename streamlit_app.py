@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🎈 halo lino ganteng")
 st.write(
-   "Ngoding seru bersama Rafalino
+   "Ngoding seru bersama Rafalino"
    )
 st.image("17483129038273881632111553702091.jpg",width=200)
 
